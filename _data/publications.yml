@@ -1,27 +1,24 @@
-# The description, url_or_doi, and file are optional
-
-- title: "Publication title #1"
-  date: "2020"
-  where: Journal X
+- title: "Analysis of PASS Theory-Based Interventions for Improving Cognitive Processing and Learning"
+  date: "2021"
+  where: Revista Iberoamericana de Neuropsicología
   description:
-    This is the description of my paper
-  authors: Author 1, Author 2
-  url_or_doi: "https://scholar.google.com/"
-  file: f1.pdf
-
-- title: "Publication title #2"
-  date: "2019"
-  where: Journal X
-  description:
-    This is the description of my paper
-  authors: Author 1, Author 2
-  url_or_doi: "https://scholar.google.com/"
-  file: f1.pdf
-
-  # Example without url or doi, file
-- title: "Publication title #3"
+    "This narrative review focuses on the neurocognitive bases of the PASS theory of intelligence and analyzes studies that test three interventions based on this theory.  
+    A methodological analysis of these studies and the implementation details of the interventions was conducted. The analysis included 17 studies published between 2000 and 2019 that addressed the efficacy of PASS theory interventions for improving cognitive processing and reading, and math skills.
+    This analysis suggests that the interventions improved cognitive processing, specifically successive and simultaneous processing of information. These interventions also improved reading and math skills. The analysis of the interventions’ implementation showed these academic skills and cognitive abilities improved when applied individually or in small groups. Furthermore, this efficacy remained even with a small number of sessions of short duration. This review provides useful information to support professionals working with the school-aged population in the selection, development, and implementation of neuropsychological interventions based on the PASS Theory to improve cognitive functioning and learning."
+  authors: Cordero-Arroyo, G., Bermonti-Pérez, M., Moreno-Torres, M., & Rodríguez Arocho, W.
+  url_or_doi: "https://neuropsychologylearning.com/wp-content/uploads/pdf/pdf-revista-vol4/vol4-n2-3-2021.pdf"
+  
+- title: "Adaptation to computerized format of a cognitive intervention to improve reading skills"
   date: "2018"
-  where: Journal X
+  where: Revista Puertorriqueña de Psicología
   description:
-    This is the description of my paper
+    "The main goal of this study was to evaluate the computerized version of a cognitive intervention based on the PASS theory to improve spelling skills. Structured interviews were conducted to cognitive and educational intervention experts to assess the computerized intervention. Recommendations provided by the experts that improved aesthetics, ease of use, and the potential to improve spelling skills were incorporated. Finally, third and fourth grade students’ evaluation of the intervention indicates that it is feasible to use with this population. Findings suggest that the connection between the intervention and its theoretical framework was not altered and support the possibility of integrating technology as a way to administer cognitive interventions and improve psychoeducational practice."
+  authors: Bermonti-Pérez, M., Cordero-Arroyo, G., & Moreno Torres, M.
+  url_or_doi: "http://www.ojs.repsasppr.net/index.php/reps/article/view/431"
 
+- title: "Neuropsychological intervention for students with inattention, hyperactivity, and reading difficulties"
+  date: "2018"
+  where: Revista Puertorriqueña de Psicología
+  description:
+    "The purpose of this study was to determine the efficacy of a PASS theory-based intervention to modify neurocognitive functions, specifically planning, and its impact on basic reading skills. This quantitative study used a Single-Subject Design with spelling measures and a pre-posttest design with standardized measures to assess the intervention’s impact on cognitive processes and reading skills. The sample consisted of three third-grade students with characteristics of inattention and hyperactivity who experienced reading difficulties. The results suggest that the intervention improved the planning ability of the participants, as well as other cognitive processes, and basic reading skills. The proposed intervention contributes to improve cognitive processes and reading skills in this population. Furthermore, this intervention provides a flexible alternative for psychology and education professionals to meet the needs of students with reading difficulties."
+  url_or_doi: "https://dialnet.unirioja.es/descarga/articulo/6773568.pdf"
