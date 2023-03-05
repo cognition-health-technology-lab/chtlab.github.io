@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-excerpt: List of my publications"
+excerpt: List of our team's publications"
 permalink: /publications/
 layout: publications
 ---
