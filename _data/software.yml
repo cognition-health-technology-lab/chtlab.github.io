@@ -1,18 +1,18 @@
-# The url and contributors are optional
-
-- name: "Project #1"
+- name: "wdiff"
   description:
-    This is the description of my software project
-  contributors: Contributor 1, Contributor 2
-  url_or_doi: "https://github.com/"
+    wdiff helps analyze how difficult a Spanish word is to spell. The objetive is to improve research on spelling skill and may also be useful for games that require user's to spell Spanish words.
+  contributors: "Mario E. Bermonti-Pérez"
+  url_or_doi: "https://github.com/mario-bermonti/wdiff"
 
-- name: "Project #2"
+- name: "stimpool"
   description:
-    This is the description of my software project
-  contributors: Contributor 1, Contributor 2
-  url_or_doi: "https://github.com/"
+    stimpool helps you easily create stimuli pools for cognitive, learning, and psycholinguistics research.
+  contributors: "Mario E. Bermonti-Pérez"
+  url_or_doi: "https://github.com/mario-bermonti/stimpool"
 
-  # Example without url or doi or contributors
-- name: "Project #3"
+- name: "mSpelling"
   description:
-    This is the description of my software project
+    mSpelling is a Spanish spelling test developed for research on spelling skills. It was design to be as easy to administer and as flexible as possible to facilitate conducting research on spelling skills.
+  contributors: "Mario E. Bermonti-Pérez"
+  url_or_doi: "https://github.com/mario-bermonti/mspelling"
+  
