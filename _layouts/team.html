@@ -1,0 +1,16 @@
+---
+layout: single
+---
+
+{{ content}}
+
+{% for member in site.data.team %}
+{% if member.webpage %}
+<h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
+{% else %}
+<h3>{{ member.name }}</h3>
+{% endif %}
+<p>{{ member.position }}</p>
+<p>{{ member.keywords }}</p>
+<p><a href="{{ mailto:member.email }}">{{ member.email }}</a></p>
+{% endfor %}
