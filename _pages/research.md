@@ -28,7 +28,7 @@ feature_row:
 Our team’s work focuses on 5 general aims that address our goal:
  
 **Understand neuropsychological functioning**
-We study healthy persons to understand how neuropsychological functioning supports complex activities and learning. We are particularly interested in how we use several neuropsychological functions simultaneously to produce complex behavior and learn in formal and informal settings. For example, our team works on identifying the neuropsychological functions that are particularly important for goal-oriented behavior, academic success, learning to design research studies, learning computational skills, learning inferential thinking.
+We study healthy persons to understand how neuropsychological functioning supports complex activities and learning. We are particularly interested in how we use several neuropsychological functions simultaneously to produce complex behavior and learn in formal and informal settings. For example, our team works on identifying the neuropsychological functions that are particularly important for goal-oriented behavior, academic success, learning to design research studies, learning computational skills, and learning inferential thinking.
 
 **Understand the effect of mental and physical illness on neuropsychological functioning**
 We study how specific mental (e.g., ADHD) and physical (e.g., diabetes) illnesses impact neuropsychological functioning. We are particularly interested in the neuropsychological mechanisms through which specific mental and physical illnesses impact behavioral, academic, and health outcomes. Our team asks questions like do people with ADHD have greater odds of developing diabetes because they have difficulties with goal-oriented behavior?
