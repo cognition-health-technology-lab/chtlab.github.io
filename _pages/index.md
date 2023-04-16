@@ -25,10 +25,11 @@ feature_row:
 # Delete the previous lines if you prefer not to have a feature row
 ---
 
-Include a long description about yourself and this website.
-
-
-
+At the Cognition, Learning, and Technology Lab (CLTLab) we use technology to understand neuropsychological functioning in healthy persons and persons experiencing mental and physical illnesses.
+  
+If you are interested in learning more or collaborating with the CLTLab team, please contact us at cltlab@psm.edu.
+ 
+Visit the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a> for more details about our research aims and projects.
 
 <!-- Delete next line if you prefer not to have a feature row. -->
 <br />
