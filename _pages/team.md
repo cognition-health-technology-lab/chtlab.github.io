@@ -5,4 +5,4 @@ permalink: /team/
 layout: team
 ---
 
-## Meet the team!
+**Meet the team!**
