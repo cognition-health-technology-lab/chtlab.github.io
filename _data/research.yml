@@ -1,18 +1,44 @@
-# The investigators and url are optional
-
-- title: "Research project #1"
+- title: "DeMo: Feasibility of the computerized intervention Letter Ordering for improving successive processing and spelling skills"
   description:
-    This is the description of my research project
-  investigators: Investigator 1, Investigator 2
-  url_or_doi: "https://www.researchgate.net/"
+    "The aim of this project is to test the feasibility of the computerized intervention Letter Ordering for improving Spelling skills of Spanish-speaking children with low reading achievement. The study implemented a Single-Subject Design with 4 third graders to explore its impact on spelling skills"
+  investigators: Mario E. Bermonti-Pérez, Giselle Cordero-Arroyo, Mary Annette Moreno Torres
 
-- title: "Research project #2"
+- title: "EPCON: Cognitive planning strategies used by Puerto Rican children in the Cognitive Assessment System (CAS2:SP)"
   description:
-    This is the description of my research project
-  investigators: Investigator 1, Investigator 2
-  url_or_doi: "https://www.researchgate.net/"
+    The general objective of this study is to examine the cognitive planning strategies used by Puerto Rican children in the Cognitive Assessment System (CAS2:SP). An observational cross-sectional/transversal design will be implemented to examine the strategies used by Puerto Rican children ages 8 to 11, as well as to measure whether precision and time correlate with the performance/outcome on the subtest of the CAS2:SP Planning Scale.   
+  investigators: Giselle Cordero-Arroyo, José A. Ramos Carrasquillo, Imalay M. Cruz Figueroa, Mario E. Bermonti-Pérez, Loggina Báez Ávila, Manuel González-González
 
-# Example without investigators, url
-- title: "Research project #3"
+- title: "Systematized review: technology-based interventions for improving reading skills"
   description:
-    This is the description of my research project
+    Describe the methodological and analytical tendencies of studies that test the efficacy or effectiveness of technology-based interventions for improving reading skills
+  investigators: Mario E. Bermonti-Pérez, Giselle Cordero-Arroyo
+
+- title: "TEST 2.0: Technology effects on the measurement of spelling skills of Spanish-speaking university students: A pilot study"
+  description:
+    "The main study will address the following research questions: a) What types of spelling mistakes do people make when completing measures of spelling with paper and pencil and on the computer? b) Are there differences in the types of spelling mistakes that people make when completing measures of spelling with paper-and-pencil in comparison to the computer?, c) What are the differences in overall spelling performance (total score) between paper-and-pencil and computer measures of spelling, after adjusting for academic level?, and d) What are the differences in spelling accuracy at the “word-level” between paper-and-pencil and computer measures of spelling, after adjusting for academic level?"
+  investigators: Mario E. Bermonti-Pérez, Giselle Cordero-Arroyo, Yamil Ortiz Ortiz
+ 
+- title: "Relationship between phonological loop and spelling skills in school-age children"
+  description:
+    "The general objective of this study is to determine the relationship between phonological loop functioning and spelling skills in elementary school-age children. The objectives of this study are: 1) Examine the relationship between phonological loop and spelling skills; 2) Examine the relationship between phonological loop and spelling skills, after controlling for the school-grade of the participant."
+  investigators: Vicmarie Vargas Álvarez, Mario E. Bermonti-Pérez, Giselle Cordero-Arroyo
+
+- title: "Differences in the phonological loop of working memory between university students with and without attention deficit hyperactivity disorder"
+  description:
+    "The main study will address the following research questions: a) Are there differences in
+    phonological loop span between university students with and without ADHD in the measure Digit Span Forward? b) Are there differences in phonological loop span between university
+    students with and without ADHD in the measure Digit Span Backwards?"
+  investigators: José E. Alicea-La Santa, Mario E. Bermonti-Pérez, Celimar Zayas-Burgos, Giselle Cordero-Arroyo
+
+- title: "Comparison of Visual Sustained Attention in Puerto Rican Children with and without
+    Attention Deficit Hyperactivity Disorder"
+  description:
+    "This study has two specific aim: 1) Explore whether there is a difference in
+    visual sustained attention between children with and without attention deficit hyperactivity
+    disorder (ADHD); (2) Explore whether there is a difference in working memory between
+    children with and without ADHD."
+  investigators: Ashializ Y. Ocasio-Rivera, Giselle Cordero-Arroyo, Mario E. Bermonti-Pérez
+
+- title: "EPCA: Psychometric Properties for the Cognitive Assessment System 2: Español (CAS2:ES) in Children from 6 to 9 Years Old"
+  description: "The general aim of this study is to establish psychometric properties for the Cognitive Assessment System 2: Español (CAS2:ES) in children from 6 to 9 years old. This is an exploratory study."
+  investigators: Mary A. Moreno-Torres, Mario E. Bermonti-Pérez, Giselle Cordero-Arroyo 
