@@ -4,8 +4,11 @@ layout: single
 
 {{ content}}
 
-<h2>PIs</h2>
+<h2>Principal Investigators</h2>
 {% for member in site.data.pis %}
+{% if member.pic %}
+<img src="/images/team/{{ member.pic }}.jpg" alt="{{member.name}} pic">
+{% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
 {% else %}
@@ -19,6 +22,9 @@ layout: single
 <h2>Contributors</h2>
 {% assign team = site.data.contributors | sort: "name"%}
 {% for member in team %}
+{% if member.pic %}
+<img src="/images/team/{{ member.pic }}.jpg" alt="{{member.name}} pic">
+{% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
 {% else %}
