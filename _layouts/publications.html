@@ -5,7 +5,8 @@ layout: single
 {{ content}}
 
 {% if site.data.publications %}
-{% for pub in site.data.publications %}
+{% assign publications = site.data.publications | sort: "date" | reverse %}
+{% for pub in publications %}
 {% if pub.url_or_doi %}
 <h3><em><a href="{{ pub.url_or_doi }}">{{ pub.title }}</a></em></h3>
 {% else %}
