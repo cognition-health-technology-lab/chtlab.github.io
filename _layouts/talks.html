@@ -4,7 +4,7 @@ layout: single
 
 {{ content }}
 
-{% if site.data.talks % }
+{% if site.data.talks %}
 {% assign talks = site.data.talks | sort: "date" | reverse %}
 {% for talk in talks %}
 <h3>
