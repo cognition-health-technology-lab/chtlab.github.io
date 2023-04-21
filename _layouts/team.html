@@ -38,6 +38,9 @@ layout: single
 <h2>Students</h2>
 {% assign team = site.data.students | sort: "name"%}
 {% for member in team %}
+{% if member.pic %}
+<img src="/images/team/{{ member.pic }}.jpg" alt="{{member.name}} pic">
+{% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
 {% else %}
