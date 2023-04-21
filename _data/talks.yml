@@ -1,27 +1,143 @@
 # The url_or_doi and file are optional
 
-- title: "Talk #1"
-  date: "2020"
-  where: Conference X
+- title: "Relación entre memoria de trabajo y destrezas de lectura en la población escolar puertorriqueña"
+  date: "2022"
+  where: Eight Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
   description:
-    This is the description of the talk I gave
-  authors: Author 1, Author 2
-  url_or_doi: "https://www.youtube.com/"
-  file: f1.pdf
+    Estudios relacionados a las destrezas de lectura sugieren que la memoria de trabajo pudiera
+    tener un rol importante en el desempeño de los niños y niñas en tareas que requieran de las
+    mismas (Peng et al., 2018). Según estos autores, el nivel de eficiencia en la lectura se asocia
+    con la capacidad de la memoria de trabajo. Por tanto, el propósito de este estudio fue examinar
+    la relación entre la memoria de trabajo y las destrezas de lectura. Realizamos un análisis
+    secundario de datos con una muestra de 30 estudiantes de Puerto Rico de primero a cuarto
+    grado entre las edades de 6 a 11 años (IRB 1314-085). Se utilizó la Batería III WoodcockMuñoz: Pruebas de Aprovechamiento para medir las destrezas de lectura y el Cognitive
+    Assessment System 2: Español para medir la memoria de trabajo. Para el análisis estadístico
+    realizamos una regresión lineal simple. Se encontró que hay una relación estadísticamente
+    significativa entre la memoria de trabajo y el compuesto de Amplia Lectura, p = .01, R² = 0.22,
+    b = 0.95, SE = .31, t = 3.05, 95% IC [0.31, 1.59]. Estos resultados sugieren que por cada punto
+    adicional en memoria de trabajo se espera un aumento de 0.95 puntos adicionales en las
+    destrezas de lectura. Estos hallazgos nos permiten aportar a la expansión del conocimiento de
+    los procesos cognitivos que pueden estar relacionados al desempeño de los individuos en tareas
+    de lectura, como lo es la memoria de trabajo.
+  authors: Alicea-La Santa, J. E., Berríos-Negrón, A. L., Vargas-Álvarez, V., Bermonti-Pérez, M., Cordero-Arroyo, G., & Moreno-Torres, M.A.
 
-- title: "Talk #2"
-  date: "2019"
-  where: Conference Y
+- title: "Relación entre la atención y las destrezas y aplicaciones académicas de niñas y niños puertorriqueños"
+  date: "2022"
+  where: Eight Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
   description:
-    This is the description of the talk I gave
-  authors: Author 1, Author 2
-  url_or_doi: "https://www.youtube.com/"
-  file: f1.pdf
+    La literatura sugiere que la atención es fundamental en el aprendizaje de destrezas académicas
+    y su aplicación en la lectura, escritura y matemáticas (Shannon et al., 2020; Arán Filippetti, et
+    al., 2021). Los niños y niñas con mejores habilidades atencionales tienen mayor probabilidad
+    de aprendizaje y un aumento en el éxito académico general (Rhoades, et al., 2011). El propósito
+    de nuestro estudio fue explorar la relación entre atención y destrezas académicas y su
+    aplicación. Realizamos análisis secundario de datos basados en el desempeño de 31 niñas y
+    niños puertorriqueños de primero a cuarto grado que completaron la escala de Atención del
+    Cognitive Assessment System 2: Español y los compuestos de destrezas académicas y
+    destrezas aplicadas de la Batería Woodcock-Muñoz III: Pruebas de Aprovechamiento (IRB #
+    1314-085). Utilizamos regresiones lineales simples en donde encontramos que la atención no
+    guarda una relación significativa con el desempeño en las destrezas académicas, R2 = 0.05, β
+    = 0.53, EE = 0.33, t = 1.64, p = 0.11, IC 95% [-0.13, 1.20] ni con el desempeño en la aplicación
+    de destrezas académicas, R2 = 0.08, β = 0.54, EE = 0.29, t = 1.89, p = 0.07, IC 95% [-0.05,
+    1.12]. Sin embargo, los extremos superiores del intervalo de confianza sugieren que la
+    atención podría predecir un aumento hasta de un punto en destrezas académicas y destrezas
+    aplicadas. El pequeño tamaño de la muestra y el menor poder estadístico podría explicar por
+    qué los resultados no fueron significativos. 
+  authors: Ocasio-Rivera, A. Y., Centeno-Román, C. A., Zayas-Burgos, C., Bermonti-Pérez, M., Cordero-Arroyo, G., & Moreno-Torres, M.A.
 
-  # Example without url or doi, file
-- title: "Talk #3"
-  date: "2018"
-  where: Conference Z
+- title: "Relación entre el procesamiento sucesivo y destrezas de escritura en estudiantes de escuela elemental"
+  date: "2022"
+  where: Eight Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
   description:
-    This is the description of the talk I gave
+    En el pasado se creía que los procesos simultáneos y sucesivos de la información eran estables
+    durante los años; sin embargo, la literatura ha demostrado que estos procesos se fortalecen con
+    la edad. Se ha encontrado que los estudiantes con dificultades en estos procesos cognitivos
+    presentan problemas de lenguaje, lectura y escritura. Destacando la importancia de continuar
+    estudiando los procesos cognitivos y destrezas académicas, realizamos un análisis secundario
+    de datos de un proyecto realizado por Moreno Torres (2016; IRB 1314-085) con el propósito
+    de identificar si existe una relación entre el procesamiento sucesivo y el desempeño de las
+    destrezas de escritura. La muestra se compuso de 31 estudiantes hispanoparlantes de primero
+    a cuarto grado con y sin diagnósticos del neurodesarrollo. Utilizamos el compuesto Amplia
+    Escritura de la Batería III Woodcock-Muñoz: Pruebas de Aprovechamiento para medir la
+    destreza de escritura y la escala de Procesamiento Sucesivo del Cognitive Assessment System
+    2: Español para medir la capacidad del individuo de procesar información en orden serial.
+    Realizamos una regresión lineal y encontramos que hay una relación estadísticamente
+    significativa entre procesamiento sucesivo y escritura, p = .05, R² = 0.09, b = 0.56, SE = .27, t
+    = 2.07, 95% IC [0.01, 1.11]. Estos resultados sugieren que por cada punto adicional en
+    procesamiento sucesivo se espera un aumento de 0.56 puntos adicionales en escritura. Los
+    hallazgos de este análisis secundario aportan información importante para el desarrollo de
+    intervenciones dirigidas a fortalecer el procesamiento sucesivo y, por consecuente, a mejorar
+    las destrezas de escritura.
+  authors: Pérez, Y., Martínez-Toro, J., Vélez-Medina, K., Caraballo-Soto, K., Bermonti-Pérez, M., Cordero-Arroyo, G., & Moreno-Torres, M.A.
+  
+- title: "Relación entre la planificación cognitiva y la resolución de cálculos matemáticos en niñas y niños puertorriqueños"
+  date: "2022"
+  where: Eight Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
+  description:
+    Estudios sugieren que el proceso de planificación es necesario para solucionar problemas matemáticos (Kroesbergen et al., 2010 Naglieri y Gottling, 1997). Gaglieri y Gottling (1997) indican que el proceso cognitivo de planificación requiere estrategias de solución de problemas para analizar y completar cómputos sistemáticamente. Este estudio examinó la relación entre planificación cognitiva, resolución de problemas aplicados y fluidez en matemáticas en menores puertorriqueños. Mediante un análisis secundario de datos con una muestra de 31 estudiantes de primer a cuarto grado, procedentes de 11 escuelas del área metropolitana y sur de Puerto Rico (IRB  1314-085), se identificó una relación estadísticamente significativa para las variables de planificación y fluidez en matemáticas, p = .02, R2 = 0.16, b = 0.38, SE = .16, t = 2.38, IC 95% [0.05, 0.71], con una R2 de .13. Estos resultados, obtenidos mediante una regresión lineal simple entre las variables planificación de la prueba CAS2: Español y las variables de fluidez en matemáticas de la Batería WM III: Pruebas de Aprovechamiento, sugieren que por cada punto adicional en planificación se esperan 0.38 adicionales en fluidez en matemáticas. Mientras que, en las variables de planificación y problemas aplicados, p = .16, R2 = 0.21, b = 0.30, SE = .21, t = 1.42 IC 95% [- 0.13, 0.74] con una R2 de .03, no hubo resultados estadísticamente significativos. Contrario a la literatura, estos hallazgos sugieren que la planificación no guarda relación significativa con las habilidades para completar cálculos matemáticos, pero sí la eficacia para completarlos. 
+  authors: Mercedes, T., Rivera, G., Colón, J., Ramos-Carrasquillo, J. A, Cruz-Figueroa, I.M., Cordero-Arroyo, G., Bermonti- Pérez, M., Báez Ávila, L., Moreno-Torres, M.A.
 
+- title: "Relación entre medidas de planificación cognitiva y velocidad de procesamiento en estudiantes de primer grado"
+  date: "2021"
+  where: Seventh Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
+  description:
+    Se ha argumentado que las subpruebas de la escala de Planificación del Cognitive Assessment
+    System (CAS) no miden la habilidad para planificar, sino la velocidad de procesamiento.
+    También se ha planteado que estas sí miden la habilidad de planificación, pero en el contexto
+    de velocidad de procesamiento. El propósito de este estudio fue determinar si existe relación
+    entre la escala de Planificación del CAS2: Spanish y sus subpruebas, y la prueba de
+    Planeamiento de la Woodcock-Muñoz III: Pruebas de Habilidades Cognitivas con los
+    compuestos de Fluidez Cognitiva y Speed/Fluency; provenientes de ambas pruebas.
+    Realizamos análisis secundario de datos con una muestra de 32 estudiantes de primer grado de
+    dos escuelas del área metropolitana de Puerto Rico (IRB 02-247-15). Los análisis de
+    correlación de Pearson demostraron que la escala de Planificación presenta una relación
+    moderadamente fuerte con el compuesto de Velocidad/Fluidez, r = .44, y una relación débil
+    con el compuesto de Fluidez Cognitiva, r = 0.24. Por su parte, la prueba de Planeamiento no
+    se encuentra relacionada con Velocidad/Fluidez, r = -0.03 ni con la prueba de Fluidez
+    Cognitiva, r = 0.11. Estos hallazgos son consistentes con la literatura al mostrar que la
+    Planificación del CAS está relacionada con la velocidad de procesamiento. Por lo tanto, se
+    recomienda considerar la fluidez y velocidad de procesamiento de los estudiantes cuando se
+    utilice el CAS2: Spanish para la evaluación de la planificación cognitiva y la toma de
+    decisiones diagnósticas y educativas.
+  authors: Cruz-Figueroa, I.M., Ramos-Carrasquillo, J. A., González-González, M., Bermonti-Pérez, M., & Cordero-Arroyo, G.
+
+- title: "Diferencias en planificación entre el CAS2: ES y la WM-III-COG en estudiantes de primer grado"
+  date: "2021"
+  where: 68va Annual Convention of the Puerto Rican Psychological Association (APPR), Ponce, P.R.
+  description:
+    Se ha argumentado que las subpruebas de la escala de Planificación del Cognitive Assessment System (CAS) no miden la habilidad para planificar, sino la velocidad de procesamiento (Keith et al., 2001; Kranzler et al., 2000). También se ha planteado que estas sí miden la habilidad de planificación, pero en el contexto de velocidad de procesamiento (Schneider, 2014). El propósito de este estudio fue determinar si existe relación entre la escala de Planificación del CAS2: Spanish y sus subpruebas, y la prueba de Planeamiento de la Woodcock-Muñoz III: Pruebas de Habilidades Cognitivas con los compuestos de Fluidez Cognitiva y Speed/Fluency; provenientes de ambas pruebas. Realizamos análisis secundario de datos con una muestra de 32 estudiantes de primer grado de dos escuelas del área metropolitana de Puerto Rico (IRB 02-247-15). Los análisis de correlación de Pearson demostraron que la escala de Planificación presenta una relación moderadamente fuerte con el compuesto de Velocidad/Fluidez, r = .44, y una relación débil con el compuesto de Fluidez Cognitiva, r = 0.24. Por su parte, la prueba de Planeamiento no se encuentra relacionada con Velocidad/Fluidez, r = -0.03 ni con la prueba de Fluidez Cognitiva, r = 0.11. Estos hallazgos son consistentes con la literatura al mostrar que la Planificación del CAS está relacionada con la velocidad de procesamiento. Por lo tanto, se recomienda considerar la fluidez y velocidad de procesamiento de los estudiantes cuando se utilice el CAS2: Spanish para la evaluación de la planificación cognitiva y la toma de decisiones diagnósticas y educativas.
+  authors: Ramos Carrasquillo, J. A., Cruz Figueroa, I. M., Cordero-Arroyo, G., Bermonti-Pérez, M. E., González González, M., & Medina Santiago, N.
+
+- title: "Revisión Narrativa: Intervenciones Basadas en la Teoría de Inteligencia PASS para Mejorar Procesos Cognitivos y Aprendizaje"
+  date: "2021"
+  where: EIV Iberoamerican Conference of Neuropsychology. Virtual conference.
+  description:
+    The present narrative review focuses on the neurocognitive bases of the PASS theory of intelligence and analyzes studies that test three interventions based
+    on this theory. A methodological analysis of these studies and the implementation details of the interventions was conducted. The analysis included 17 studies published between 2000 and 2019 that addressed the efficacy of PASS theory interventions for improving cognitive processing and reading and math skills. This analysis suggests that the interventions improved cognitive processing, specifically successive and simultaneous processing of information. These interventions also improved reading and math skills. The analysis of the interventions’
+    implementation showed these academic skills and cognitive abilities improved when
+    applied individually or in small groups. Furthermore, this efficacy remained even
+    with a small number of sessions of short duration. This review provides useful information to support professionals working with the school-aged population in the selection, development, and implementation of neuropsychological interventions based on the PASS Theory to improve cognitive functioning and learning.
+  authors: Cordero-Arroyo, G., Bermonti-Pérez, M., Moreno-Torres, M., & Rodríguez Arocho, W.
+
+  title: "Relación entre el bucle fonológico y las destrezas ortográficas en estudiantes de escuela elemental"
+  date: "2022"
+  where: Seventh Behavioral Health Student Research Symposium of Southern Puerto Rico. Ponce Health Sciences University.
+  description:
+    Las destrezas de deletreo son esenciales para el desarrollo de la lectura y escritura. Pese a la
+    importancia de dicha destreza, existe escasa literatura científica en deletreo en comparación
+    con lectura, como también de literatura sobre memoria de trabajo, procesamiento fonológico y
+    lectura relacionada a esta competencia ortográfica. El propósito de este estudio fue determinar
+    si existe una relación entre el funcionamiento del bucle fonológico de la memoria de trabajo y
+    destrezas de ortografía. Realizamos un análisis secundario de datos de un estudio cuyo objetivo
+    fue evaluar la efectividad de un modelo neurocognitivo para la identificación de Trastorno
+    Específico de Aprendizaje como alternativa al modelo actual de discrepancia entre capacidad
+    intelectual y aprovechamiento académico. La muestra estuvo compuesta de 34 estudiantes de
+    primero a cuarto grado, hispanoparlantes, con diagnóstico previo de TEAp, Trastorno de
+    Déficit de Atención e Hiperactividad o ambos diagnósticos y estudiantes típicos. Para fines de
+    este estudio utilizamos las subpruebas de Ortografía de la WM-III y Retención visual de dígitos
+    del CAS2: Español. Un análisis de regresión lineal demostró una fuerte correlación entre el
+    funcionamiento del bucle fonológico y el desempeño en ortografía, r = .67, r2 =. 45, p < .001.
+    Estos resultados sugieren que el bucle fonológico esté relacionado fuertemente con las
+    habilidades ortográficas. Los hallazgos sugieren que el bucle fonológico es habilidad cognitiva
+    que apoya fuertemente las destrezas de ortografía, información importante para evaluar e
+    intervenir psicoeducativamente.
+  authors: Pérez, Y., Vargas-Álvarez, V., Cordero-Arroyo, G., Bermonti-Pérez, M., & Moreno-Torres, M.A.
