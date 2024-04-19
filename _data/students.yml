@@ -10,18 +10,6 @@
   email: "aberrios20@stu.psm.edu"
   pic: "Alma"
 
-- name: "Carmín A. Centeno-Román, M.Sc"
-  position: "PhD Student"
-  keywords: "COVID-19, Cognition, Neuroimaging"
-  email: "ccenteno20@stu.psm.edu"
-  pic: "Carmin"
-
-- name: "Imalay M. Cruz-Figueroa, B.A."
-  position: "PhD Student"
-  keywords: "Cognition, ADHD, Alzheimer"
-  email: "icruz20@stu.psm.edu"
-  pic: "Imalay"
-
 - name: "Aisys S. Laureano-Reyes, M.A."
   position: "PhD Student"
   keywords: "Neurodevelopment, ADHD, Working Memory, Technology, Education"
@@ -52,32 +40,8 @@
   email: "jramos20@stu.psm.edu"
   pic: "Ramos"
 
-- name: "Noely Y. Ramos-Vega, M.A."
-  position: "PhD Student"
-  keywords: "Cognition, Prolonged Grief Disorder, Miscarriage, Neurofeedback "
-  email: "nramos21@stu.psm.edu"
-  pic: "Noely"
-
-- name: "Gabriela P. Rivera-Bonilla, B.A."
-  position: "PhD Student"
-  keywords: "Psychometry, Cognition, Autism, Children"
-  email: "grivera20@stu.psm.edu"
-  pic: "Gabriela"
-
-- name: "Vicmarie Vargas-Álvarez, M.Sc."
-  position: "PhD Student"
-  keywords: "Children, Neurodevelopmental Disorders, Cognition, Working Memory, Assesment"
-  email: "vvargas18@stu.psm.edu"
-  pic: "Vicmarie"
-
 - name: "Celimar Zayas-Burgos, B.A."
   position: "PhD Student"
   keywords: "Health Psychology, Cognition, ADHD, Working Memory"
   email: "czayas20@stu.psm.edu"
   pic: "Celimar"
-
-- name: "Gina M Vélez-Báez, M.A., M.S."
-  position: "PhD Student"
-  keywords: "Health Psychology, Inflammatory Bowel Disease, Mental Health"
-  email: "gvelez21@stu.psm.edu"
-  pic: "Gina"
