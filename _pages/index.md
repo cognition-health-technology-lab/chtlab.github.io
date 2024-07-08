@@ -25,7 +25,7 @@ title: Welcome!
 # # Delete the previous lines if you prefer not to have a feature row
 ---
 
-At the Cognition, Learning, and Technology Lab (CLTLab) we use technology to understand neuropsychological functioning in healthy persons and persons experiencing mental and physical illnesses.
+At the Cognition, Health, and Technology Lab (CHTLab) we use technology to understand neuropsychological functioning in healthy persons and persons experiencing mental and physical illnesses.
 
 Our team implements quantitative and qualitative approaches to research these topics and develop robust knowledge. We combine innovative and traditional data collection methods such as:
 - mobile devices (e.g., smartphone, tablet)
@@ -35,7 +35,7 @@ Our team implements quantitative and qualitative approaches to research these to
 - surveys
 - interviews and focus groups
 
-If you are interested in learning more about our work or collaborating with the CLTLab team, please contact us at cltlab@psm.edu.
+If you are interested in learning more about our work or collaborating with the CHTLab team, please contact us at cltlab@psm.edu.
  
 Visit the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a> for more details about our research aims and projects.
 

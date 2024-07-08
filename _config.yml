@@ -12,16 +12,16 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Cognition, Learning, and Tech Lab"
+title                    : "Cognition, Health, and Tech Lab"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
-name                     : "CLTLab"
-description              : "CLTLab website"
+name                     : "CHTLab"
+description              : "CHTLab website"
 
 # Site Author info
 ##################################################
 author:
-  name             : "CLTLab"
+  name             : "CHTLab"
   avatar           : "/images/logo.png"
   location: "Puerto Rico"
   #links that appear in the authors navigation sidebar
