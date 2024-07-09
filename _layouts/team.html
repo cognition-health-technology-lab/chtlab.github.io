@@ -7,7 +7,7 @@ layout: single
 <h2>Principal Investigators</h2>
 {% for member in site.data.pis %}
 {% if member.pic %}
-<img src="/images/team/{{ member.pic }}.jpg" style="width: 50%;" alt="{{member.name}} pic">
+<img src="/images/team/{{ member.pic }}.jpg" width="50%" height="50%" alt="{{member.name}} pic">
 {% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
@@ -23,7 +23,7 @@ layout: single
 {% assign team = site.data.contributors | sort: "name"%}
 {% for member in team %}
 {% if member.pic %}
-<img src="/images/team/{{ member.pic }}.jpg" style="width: 50%;" alt="{{member.name}} pic">
+<img src="/images/team/{{ member.pic }}.jpg" width="50%" height="50%" alt="{{member.name}} pic">
 {% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
@@ -39,7 +39,7 @@ layout: single
 {% assign team = site.data.students | sort: "name"%}
 {% for member in team %}
 {% if member.pic %}
-<img src="/images/team/{{ member.pic }}.jpg" style="width: 50%;" alt="{{member.name}} pic">
+<img src="/images/team/{{ member.pic }}.jpg" width="50%" height="50%" alt="{{member.name}} pic">
 {% endif %}
 {% if member.webpage %}
 <h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
