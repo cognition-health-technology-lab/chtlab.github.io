@@ -54,12 +54,5 @@ layout: single
 <h2>Rotating Students</h2>
 {% assign team = site.data.rotating-students | sort: "name"%}
 {% for member in team %}
-{% if member.webpage %}
-<h3><em><a href="{{ member.webpage }}">{{ member.name }}</a></em></h3>
-{% else %}
-<h3>{{ member.name }}</h3>
-{% endif %}
-<p>{{ member.position }}</p>
-<p>{{ member.keywords }}</p>
-<p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+<p>{{ member.name }}</p>
 {% endfor %}
