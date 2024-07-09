@@ -252,6 +252,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 
 # Archives
