@@ -5,6 +5,6 @@ layout: single
 {% for activity in site.data.gallery %}
 <h2>{{ activity.title }}</h2>
 {% for image in activity.pics %}
-<img src="/images/gallery/{{ image }}" alt="{{ activity.name }} pic">
+<img src="{{ '/images/gallery/' | relative_url }}/{{ image }}" alt=" {{ activity.name }} pic">
 {% endfor %}
 {% endfor %}
