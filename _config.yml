@@ -113,9 +113,9 @@ defaults:
 
 # Website config
 ##################################################
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : https://cognition-health-technology-lab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /chtlab.github.io/ # the subpath of your site, e.g. "/blog"
+repository               : cognition-health-technology-lab/chtlab.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github                   : [metadata] # Fixes warning about GitHub metadata
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
